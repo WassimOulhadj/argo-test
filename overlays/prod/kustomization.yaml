@@ -7,7 +7,6 @@ resources:
 
 namespace: prod
   
-  ```
 patches:
   - path: minimum-replicas.yaml
     target:
